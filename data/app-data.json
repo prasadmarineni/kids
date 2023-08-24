@@ -1,15 +1,17 @@
 {
-	"version": "1.0",
-	"items": [
-		{
-			"label": "Animals",
-			"word": "Animals",
-			"subItems": [
-				{
-					"label": "Animals",
-					"word": "Animals Data"
-				}
-			]
-		}
-	]
+    "version": "1.0",
+    "items": [
+        {
+            "label": "Animals",
+            "word": "Animals",
+            "imgUrl": "https://github.com/prasadmarineni/kids/blob/main/data/img/animals.png?raw=true",
+            "subItems": [
+                {
+                    "label": "Tiger",
+                    "word": "Tiger",
+                    "imgUrl": "https://github.com/prasadmarineni/kids/blob/main/data/img/animals.png?raw=true",
+                }
+            ]
+        }
+    ]
 }
