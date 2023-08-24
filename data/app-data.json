@@ -10,6 +10,14 @@
                 "label":"Tiger",
                 "word":"Tiger",
                 "imgUrl":"https://github.com/prasadmarineni/kids/blob/main/data/img/animals.png?raw=true"
+             }, {
+                "label":"Tiger 2",
+                "word":"Tiger 2",
+                "imgUrl":"https://github.com/prasadmarineni/kids/blob/main/data/img/animals.png?raw=true"
+             }, {
+                "label":"Tiger 3",
+                "word":"Tiger 3",
+                "imgUrl":"https://github.com/prasadmarineni/kids/blob/main/data/img/animals.png?raw=true"
              }
           ]
        }
