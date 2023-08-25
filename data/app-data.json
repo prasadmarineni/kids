@@ -2,7 +2,7 @@
     "version":"1.0",
     "imgBaseUrl": "https://github.com/prasadmarineni/kids/blob/main/data/img/",
     "items":[
-       {
+        {
             "label":"Animals",
             "word":"Animals",
             "imgUrl": "https://github.com/prasadmarineni/kids/blob/main/data/img/animals.jpg?raw=true",
@@ -101,8 +101,8 @@
                     "imgUrls": ["animal-ziraf-1.jpg?raw=true", "animal-ziraf-2.jpg?raw=true"]
                 } 
             ]
-       } , {
-        "label":"Birds",
+       }, {
+            "label":"Birds",
             "word":"Birds",
             "imgUrl": "https://github.com/prasadmarineni/kids/blob/main/data/img/birds.jpg?raw=true",
             "subItems": [
