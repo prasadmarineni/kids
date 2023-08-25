@@ -3,20 +3,39 @@
     "imgBaseUrl": "https://github.com/prasadmarineni/kids/blob/main/data/img/",
     "items":[
        {
-          "label":"Animals",
-          "word":"Animals",
-          "imgUrl": "https://github.com/prasadmarineni/kids/blob/main/data/img/animals.jpg?raw=true",
-          "subItems":[
-             {
-                "label":"Tiger",
-                "word":"Tiger 1",
-                "imgUrl": ["tiger-1.jpg?raw=true", "tiger-2.jpg?raw=true"]
-             }, {
-                "label":"Lion",
-                "word":"Lion",
-                "imgUrl": ["lion-1.jpg?raw=true", "lion-2.jpg?raw=true", "lion-3.jpg?raw=true", "lion-4.jpg?raw=true"]
-             }
-          ]
+            "label":"Animals",
+            "word":"Animals",
+            "imgUrl": "https://github.com/prasadmarineni/kids/blob/main/data/img/animals.jpg?raw=true",
+            "subItems":[
+                {
+                    "label":"Tiger",
+                    "word":"Tiger 1",
+                    "imgUrl": ["tiger-1.jpg?raw=true", "tiger-2.jpg?raw=true"]
+                }, {
+                    "label":"Lion",
+                    "word":"Lion",
+                    "imgUrl": ["lion-1.jpg?raw=true", "lion-2.jpg?raw=true", "lion-3.jpg?raw=true", "lion-4.jpg?raw=true"]
+                }, {
+                    "label":"Squirrel",
+                    "word":"Sparrow",
+                    "imgUrl": ["squirrel-1.jpg?raw=true", "squirrel-2.jpg?raw=true", "squirrel-3.jpg?raw=true", "squirrel-4.jpg?raw=true", "squirrel-5.jpg?raw=true", "squirrel-6.jpg?raw=true"]
+                }
+            ]
+       } , {
+        "label":"Birds",
+            "word":"Birds",
+            "imgUrl": "https://github.com/prasadmarineni/kids/blob/main/data/img/birds.jpg?raw=true",
+            "subItems": [
+                {
+                    "label":"Parrot",
+                    "word":"Parrot",
+                    "imgUrl": ["parrot-1.jpg?raw=true", "parrot-2.jpg?raw=true"]
+                }, {
+                    "label":"Sparrow",
+                    "word":"Sparrow",
+                    "imgUrl": ["sparrow-1.jpg?raw=true"]
+                }
+            ]
        }
     ]
- }
+}
