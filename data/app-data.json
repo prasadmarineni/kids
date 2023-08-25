@@ -1,23 +1,20 @@
 {
     "version":"1.0",
+    "imgBaseUrl": "https://github.com/prasadmarineni/kids/blob/main/data/img/",
     "items":[
        {
           "label":"Animals",
           "word":"Animals",
-          "imgUrl":"https://github.com/prasadmarineni/kids/blob/main/data/img/animals.jpg?raw=true",
+          "imgUrl": "https://github.com/prasadmarineni/kids/blob/main/data/img/animals.jpg?raw=true",
           "subItems":[
              {
                 "label":"Tiger",
                 "word":"Tiger 1",
-                "imgUrl":"https://github.com/prasadmarineni/kids/blob/main/data/img/tiger-1.jpg?raw=true"
-             }, {
-                "label":"Tiger",
-                "word":"Tiger 2",
-                "imgUrl":"https://github.com/prasadmarineni/kids/blob/main/data/img/tiger-2.jpg?raw=true"
+                "imgUrl": ["tiger-1.jpg?raw=true", "tiger-2.jpg?raw=true"]
              }, {
                 "label":"Lion",
-                "word":"Lion 1",
-                "imgUrl":"https://github.com/prasadmarineni/kids/blob/main/data/img/lion-1.jpg?raw=true"
+                "word":"Lion",
+                "imgUrl": ["lion-1.jpg?raw=true", "lion-2.jpg?raw=true", "lion-3.jpg?raw=true", "lion-4.jpg?raw=true"]
              }
           ]
        }
