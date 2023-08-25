@@ -128,7 +128,7 @@
                     "imgUrls": ["bird-duck-1.jpg?raw=true", "bird-duck-2.jpg?raw=true", "bird-duck-3.jpg?raw=true"]
                 }
             ]
-       },  , {
+       }, {
             "label":"Fruits",
             "word":"Fruits",
             "imgUrl": "https://github.com/prasadmarineni/kids/blob/main/data/img/fruits.jpg?raw=true",
