@@ -9,15 +9,15 @@
              {
                 "label":"Tiger",
                 "word":"Tiger",
-                "imgUrl":"https://github.com/prasadmarineni/kids/blob/main/data/img/animals.png?raw=true"
+                "imgUrl":"https://github.com/prasadmarineni/kids/blob/main/data/img/tiger-1.png?raw=true"
              }, {
                 "label":"Tiger 2",
                 "word":"Tiger 2",
-                "imgUrl":"https://github.com/prasadmarineni/kids/blob/main/data/img/animals.png?raw=true"
+                "imgUrl":"https://github.com/prasadmarineni/kids/blob/main/data/img/tiger-2.png?raw=true"
              }, {
                 "label":"Tiger 3",
                 "word":"Tiger 3",
-                "imgUrl":"https://github.com/prasadmarineni/kids/blob/main/data/img/animals.png?raw=true"
+                "imgUrl":"https://github.com/prasadmarineni/kids/blob/main/data/img/tiger-3.png?raw=true"
              }
           ]
        }
