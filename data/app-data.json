@@ -122,6 +122,10 @@
                     "label":"Sparrow",
                     "word":"Sparrow",
                     "imgUrls": ["bird-sparrow-1.jpg?raw=true", "bird-sparrow-2.jpg?raw=true", "bird-sparrow-3.jpg?raw=true"]
+                }, {
+                    "label":"Duck",
+                    "word":"duck",
+                    "imgUrls": ["bird-duck-1.jpg?raw=true", "bird-duck-2.jpg?raw=true", "bird-duck-3.jpg?raw=true"]
                 }
             ]
        }
