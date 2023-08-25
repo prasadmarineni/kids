@@ -8,18 +8,98 @@
             "imgUrl": "https://github.com/prasadmarineni/kids/blob/main/data/img/animals.jpg?raw=true",
             "subItems":[
                 {
-                    "label":"Tiger",
-                    "word":"Tiger 1",
-                    "imgUrls": ["tiger-1.jpg?raw=true", "tiger-2.jpg?raw=true"]
+                    "label":"Bear",
+                    "word":"Bear",
+                    "imgUrls": ["animal-bear-1.jpg?raw=true", "animal-bear-2.jpg?raw=true", "animal-bear-3.jpg?raw=true", "animal-bear-4.jpg?raw=true"]
+                }, {
+                    "label":"Buffalo",
+                    "word":"Buffalo",
+                    "imgUrls": ["animal-buffalo-1.jpg?raw=true", "animal-buffalo-2.jpg?raw=true"]
+                }, {
+                    "label":"Camel",
+                    "word":"Camel",
+                    "imgUrls": ["animal-camel-1.jpg?raw=true", "animal-camel-2.jpg?raw=true", "animal-camel-3.jpg?raw=true", "animal-camel-4.jpg?raw=true"]
+                }, {
+                    "label":"Cat",
+                    "word":"Cat",
+                    "imgUrls": ["animal-cat-1.jpg?raw=true", "animal-cat-2.jpg?raw=true", "animal-cat-3.jpg?raw=true", "animal-cat-4.jpg?raw=true", "animal-cat-5.jpg?raw=true", "animal-cat-6.jpg?raw=true", "animal-cat-7.jpg?raw=true"]
+                }, {
+                    "label":"Crocodile",
+                    "word":"Crocodile",
+                    "imgUrls": ["animal-crocodile-1.jpg?raw=true", "animal-crocodile-2.jpg?raw=true"]
+                }, {
+                    "label":"Deer",
+                    "word":"Deer",
+                    "imgUrls": ["animal-deer-1.jpg?raw=true", "animal-deer-2.jpg?raw=true", "animal-deer-3.jpg?raw=true", "animal-deer-4.jpg?raw=true", "animal-deer-5.jpg?raw=true", "animal-deer-6.jpg?raw=true"]
+                }, {
+                    "label":"Elephant",
+                    "word":"elephant",
+                    "imgUrls": ["animal-elephant-1.jpg?raw=true", "animal-elephant-2.jpg?raw=true"]
+                }, {
+                    "label":"Fox",
+                    "word":"fox",
+                    "imgUrls": ["animal-fox-1.jpg?raw=true", "animal-fox-2.jpg?raw=true"]
+                }, {
+                    "label":"Gorilla",
+                    "word":"gorilla",
+                    "imgUrls": ["animal-gorilla-1.jpg?raw=true", "animal-gorilla-2.jpg?raw=true", "animal-gorilla-3.jpg?raw=true", "animal-gorilla-4.jpg?raw=true"]
+                }, {
+                    "label":"Hippopotamus",
+                    "word":"hippopotamus",
+                    "imgUrls": ["animal-hippopotamus-1.jpg?raw=true", "animal-hippopotamus-2.jpg?raw=true"]
+                }, {
+                    "label":"Horse",
+                    "word":"horse",
+                    "imgUrls": ["animal-horse-1.jpg?raw=true", "animal-horse-2.jpg?raw=true", "animal-horse-3.jpg?raw=true", "animal-horse-4.jpg?raw=true", "animal-horse-5.jpg?raw=true", "animal-horse-6.jpg?raw=true"]
+                }, {
+                    "label":"Kangaroo",
+                    "word":"kangaroo",
+                    "imgUrls": ["animal-kangaroo-1.jpg?raw=true", "animal-kangaroo-2.jpg?raw=true", "animal-kangaroo-3.jpg?raw=true", "animal-kangaroo-4.jpg?raw=true"]
                 }, {
                     "label":"Lion",
                     "word":"Lion",
-                    "imgUrls": ["lion-1.jpg?raw=true", "lion-2.jpg?raw=true", "lion-3.jpg?raw=true", "lion-4.jpg?raw=true"]
+                    "imgUrls": ["animal-lion-1.jpg?raw=true", "animal-lion-2.jpg?raw=true", "animal-lion-3.jpg?raw=true", "animal-lion-4.jpg?raw=true"]
+                }, {
+                    "label":"Monkey",
+                    "word":"monkey",
+                    "imgUrls": ["animal-monkey-1.jpg?raw=true", "animal-monkey-2.jpg?raw=true", "animal-monkey-3.jpg?raw=true", "animal-monkey-4.jpg?raw=true"]
+                }, {
+                    "label":"Owl",
+                    "word":"owl",
+                    "imgUrls": ["animal-owl-1.jpg?raw=true", "animal-owl-2.jpg?raw=true"]
+                }, {
+                    "label":"Panda",
+                    "word":"panda",
+                    "imgUrls": ["animal-panda-1.jpg?raw=true", "animal-panda-2.jpg?raw=true"]
+                }, {
+                    "label":"Ryanosaurus",
+                    "word":"ryanosaurus",
+                    "imgUrls": ["animal-ryanosaurus-1.jpg?raw=true", "animal-ryanosaurus-2.jpg?raw=true", "animal-ryanosaurus-2.jpg?raw=true"]
                 }, {
                     "label":"Squirrel",
                     "word":"Sparrow",
-                    "imgUrls": ["squirrel-1.jpg?raw=true", "squirrel-2.jpg?raw=true", "squirrel-3.jpg?raw=true", "squirrel-4.jpg?raw=true", "squirrel-5.jpg?raw=true", "squirrel-6.jpg?raw=true"]
-                }
+                    "imgUrls": ["animal-squirrel-1.jpg?raw=true", "animal-squirrel-2.jpg?raw=true", "animal-squirrel-3.jpg?raw=true", "animal-squirrel-4.jpg?raw=true", "animal-squirrel-5.jpg?raw=true", "animal-squirrel-6.jpg?raw=true", "animal-squirrel-7.jpg?raw=true", "animal-squirrel-8.jpg?raw=true"]
+                }, {
+                    "label":"Tiger",
+                    "word":"Tiger",
+                    "imgUrls": ["animal-tiger-1.jpg?raw=true", "animal-tiger-2.jpg?raw=true"]
+                }, {
+                    "label":"Tortoise",
+                    "word":"tortoise",
+                    "imgUrls": ["animal-tortoise-1.jpg?raw=true", "animal-tortoise-2.jpg?raw=true"]
+                }, {
+                    "label":"Wolf",
+                    "word":"wolf",
+                    "imgUrls": ["animal-wolf-1.jpg?raw=true", "animal-wolf-2.jpg?raw=true", "animal-wolf-3.jpg?raw=true"]
+                }, {
+                    "label":"Zebra",
+                    "word":"zebra",
+                    "imgUrls": ["animal-zebra-1.jpg?raw=true", "animal-zebra-2.jpg?raw=true"]
+                }, {
+                    "label":"Ziraf",
+                    "word":"Ziraf",
+                    "imgUrls": ["animal-ziraf-1.jpg?raw=true", "animal-ziraf-2.jpg?raw=true"]
+                } 
             ]
        } , {
         "label":"Birds",
@@ -27,13 +107,21 @@
             "imgUrl": "https://github.com/prasadmarineni/kids/blob/main/data/img/birds.jpg?raw=true",
             "subItems": [
                 {
+                    "label":"Eagel",
+                    "word":"eagel",
+                    "imgUrls": ["bird-eagel-1.jpg?raw=true", "bird-eagel-2.jpg?raw=true"]
+                }, {
                     "label":"Parrot",
                     "word":"Parrot",
-                    "imgUrls": ["parrot-1.jpg?raw=true", "parrot-2.jpg?raw=true"]
+                    "imgUrls": ["bird-parrot-1.jpg?raw=true", "bird-parrot-2.jpg?raw=true", "bird-parrot-3.jpg?raw=true", "bird-parrot-4.jpg?raw=true"]
+                }, {
+                    "label":"Peacock",
+                    "word":"peacock",
+                    "imgUrls": ["bird-peacock-1.jpg?raw=true", "bird-peacock-2.jpg?raw=true"]
                 }, {
                     "label":"Sparrow",
                     "word":"Sparrow",
-                    "imgUrls": ["sparrow-1.jpg?raw=true"]
+                    "imgUrls": ["bird-sparrow-1.jpg?raw=true", "bird-sparrow-2.jpg?raw=true", "bird-sparrow-3.jpg?raw=true"]
                 }
             ]
        }
