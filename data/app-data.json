@@ -22,7 +22,7 @@
                 }, {
                     "label":"Cat",
                     "word":"Cat",
-                    "imgUrls": ["animal-cat-1.jpg?raw=true", "animal-cat-2.jpg?raw=true", "animal-cat-3.jpg?raw=true", "animal-cat-4.jpg?raw=true", "animal-cat-5.jpg?raw=true", "animal-cat-6.jpg?raw=true", "animal-cat-7.jpg?raw=true"]
+                    "imgUrls": ["animal-cat-1.jpg?raw=true", "animal-cat-2.jpg?raw=true", "animal-cat-3.jpg?raw=true", "animal-cat-4.jpg?raw=true", "animal-cat-5.jpg?raw=true", "animal-cat-6.jpg?raw=true"]
                 }, {
                     "label":"Crocodile",
                     "word":"Crocodile",
