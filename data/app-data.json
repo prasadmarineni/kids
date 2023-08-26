@@ -231,11 +231,11 @@
             "imgUrl": "https://github.com/prasadmarineni/kids/blob/main/data/img/birds.jpg?raw=true",
             "subItems": [
                 {
-                    "label": "Eagel",
-                    "word": "eagel",
+                    "label": "Eagle",
+                    "word": "eagle",
                     "imgUrls": [
-                        "bird-eagel-1.jpg?raw=true",
-                        "bird-eagel-2.jpg?raw=true"
+                        "bird-eagle-1.jpg?raw=true",
+                        "bird-eagle-2.jpg?raw=true"
                     ]
                 },
                 {
