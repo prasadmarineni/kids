@@ -298,11 +298,11 @@
                     ]
                 },
                 {
-                    "label": "Avocado",
-                    "word": "avocado",
+                    "label": "Avocados",
+                    "word": "avocados",
                     "imgUrls": [
-                        "fruit-avocado-1.jpg?raw=true",
-                        "fruit-avocado-2.jpg?raw=true"
+                        "fruit-avocados-1.jpg?raw=true",
+                        "fruit-avocados-2.jpg?raw=true"
                     ]
                 },
                 {
@@ -338,7 +338,7 @@
                     ]
                 },
                 {
-                    "label": "Custardapple",
+                    "label": "Custard Apple",
                     "word": "custardapple",
                     "imgUrls": [
                         "fruit-custardapple-1.jpg?raw=true",
@@ -346,8 +346,8 @@
                     ]
                 },
                 {
-                    "label": "Dragon-Fruit",
-                    "word": "dragon-fruit",
+                    "label": "Dragon Fruit",
+                    "word": "dragon fruit",
                     "imgUrls": [
                         "fruit-dragon-fruit-1.jpg?raw=true",
                         "fruit-dragon-fruit-2.jpg?raw=true"
@@ -482,11 +482,11 @@
                     ]
                 },
                 {
-                    "label": "Strawberrie",
-                    "word": "strawberrie",
+                    "label": "Strawberries",
+                    "word": "strawberries",
                     "imgUrls": [
-                        "fruit-strawberrie-1.jpg?raw=true",
-                        "fruit-strawberrie-2.jpg?raw=true"
+                        "fruit-strawberries-1.jpg?raw=true",
+                        "fruit-strawberries-2.jpg?raw=true"
                     ]
                 },
                 {
@@ -504,7 +504,7 @@
                         "fruit-watermelon-1.jpg?raw=true",
                         "fruit-watermelon-2.jpg?raw=true"
                     ]
-                }
+                },
             ]
         }
     ]
