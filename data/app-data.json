@@ -137,6 +137,18 @@
                     "label":"Apple",
                     "word":"apple",
                     "imgUrls": ["fruit-apple-1.jpg?raw=true", "fruit-apple-2.jpg?raw=true"]
+                }, {
+                    "label":"Apricots",
+                    "word":"apricots",
+                    "imgUrls": ["fruit-apricots-1.jpg?raw=true", "fruit-apricots-2.jpg?raw=true"]
+                }, {
+                    "label":"Avocado",
+                    "word":"avocado",
+                    "imgUrls": ["fruit-avocado-1.jpg?raw=true", "fruit-avocado-2.jpg?raw=true"]
+                }, {
+                    "label":"Banana",
+                    "word":"banana",
+                    "imgUrls": ["fruit-banana-1.jpg?raw=true", "fruit-banana-2.jpg?raw=true"]
                 }
             ]
        }
