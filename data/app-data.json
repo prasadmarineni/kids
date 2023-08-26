@@ -1,1 +1,511 @@
-{"version":"1.0","imgBaseUrl":"https://github.com/prasadmarineni/kids/blob/main/data/img/","items":[{"label":"Animals","word":"Animals","imgUrl":"https://github.com/prasadmarineni/kids/blob/main/data/img/animals.jpg?raw=true","subItems":[{"label":"Bear","word":"Bear","imgUrls":["animal-bear-1.jpg?raw=true","animal-bear-2.jpg?raw=true","animal-bear-3.jpg?raw=true","animal-bear-4.jpg?raw=true"]},{"label":"Buffalo","word":"Buffalo","imgUrls":["animal-buffalo-1.jpg?raw=true","animal-buffalo-2.jpg?raw=true"]},{"label":"Camel","word":"Camel","imgUrls":["animal-camel-1.jpg?raw=true","animal-camel-2.jpg?raw=true","animal-camel-3.jpg?raw=true","animal-camel-4.jpg?raw=true"]},{"label":"Cat","word":"Cat","imgUrls":["animal-cat-1.jpg?raw=true","animal-cat-2.jpg?raw=true","animal-cat-3.jpg?raw=true","animal-cat-4.jpg?raw=true","animal-cat-5.jpg?raw=true","animal-cat-6.jpg?raw=true"]},{"label":"Crocodile","word":"Crocodile","imgUrls":["animal-crocodile-1.jpg?raw=true","animal-crocodile-2.jpg?raw=true"]},{"label":"Deer","word":"Deer","imgUrls":["animal-deer-1.jpg?raw=true","animal-deer-2.jpg?raw=true","animal-deer-3.jpg?raw=true","animal-deer-4.jpg?raw=true","animal-deer-5.jpg?raw=true","animal-deer-6.jpg?raw=true"]},{"label":"Elephant","word":"elephant","imgUrls":["animal-elephant-1.jpg?raw=true","animal-elephant-2.jpg?raw=true"]},{"label":"Fox","word":"fox","imgUrls":["animal-fox-1.jpg?raw=true","animal-fox-2.jpg?raw=true"]},{"label":"Gorilla","word":"gorilla","imgUrls":["animal-gorilla-1.jpg?raw=true","animal-gorilla-2.jpg?raw=true","animal-gorilla-3.jpg?raw=true","animal-gorilla-4.jpg?raw=true"]},{"label":"Hippopotamus","word":"hippopotamus","imgUrls":["animal-hippopotamus-1.jpg?raw=true","animal-hippopotamus-2.jpg?raw=true"]},{"label":"Horse","word":"horse","imgUrls":["animal-horse-1.jpg?raw=true","animal-horse-2.jpg?raw=true","animal-horse-3.jpg?raw=true","animal-horse-4.jpg?raw=true","animal-horse-5.jpg?raw=true","animal-horse-6.jpg?raw=true"]},{"label":"Kangaroo","word":"kangaroo","imgUrls":["animal-kangaroo-1.jpg?raw=true","animal-kangaroo-2.jpg?raw=true","animal-kangaroo-3.jpg?raw=true","animal-kangaroo-4.jpg?raw=true"]},{"label":"Lion","word":"Lion","imgUrls":["animal-lion-1.jpg?raw=true","animal-lion-2.jpg?raw=true","animal-lion-3.jpg?raw=true","animal-lion-4.jpg?raw=true"]},{"label":"Monkey","word":"monkey","imgUrls":["animal-monkey-1.jpg?raw=true","animal-monkey-2.jpg?raw=true","animal-monkey-3.jpg?raw=true","animal-monkey-4.jpg?raw=true"]},{"label":"Owl","word":"owl","imgUrls":["animal-owl-1.jpg?raw=true","animal-owl-2.jpg?raw=true"]},{"label":"Panda","word":"panda","imgUrls":["animal-panda-1.jpg?raw=true","animal-panda-2.jpg?raw=true"]},{"label":"Ryanosaurus","word":"ryanosaurus","imgUrls":["animal-ryanosaurus-1.jpg?raw=true","animal-ryanosaurus-2.jpg?raw=true","animal-ryanosaurus-2.jpg?raw=true"]},{"label":"Squirrel","word":"Sparrow","imgUrls":["animal-squirrel-1.jpg?raw=true","animal-squirrel-2.jpg?raw=true","animal-squirrel-3.jpg?raw=true","animal-squirrel-4.jpg?raw=true","animal-squirrel-5.jpg?raw=true","animal-squirrel-6.jpg?raw=true","animal-squirrel-7.jpg?raw=true","animal-squirrel-8.jpg?raw=true"]},{"label":"Tiger","word":"Tiger","imgUrls":["animal-tiger-1.jpg?raw=true","animal-tiger-2.jpg?raw=true"]},{"label":"Tortoise","word":"tortoise","imgUrls":["animal-tortoise-1.jpg?raw=true","animal-tortoise-2.jpg?raw=true"]},{"label":"Wolf","word":"wolf","imgUrls":["animal-wolf-1.jpg?raw=true","animal-wolf-2.jpg?raw=true","animal-wolf-3.jpg?raw=true"]},{"label":"Zebra","word":"zebra","imgUrls":["animal-zebra-1.jpg?raw=true","animal-zebra-2.jpg?raw=true"]},{"label":"Ziraf","word":"Ziraf","imgUrls":["animal-ziraf-1.jpg?raw=true","animal-ziraf-2.jpg?raw=true"]}]},{"label":"Birds","word":"Birds","imgUrl":"https://github.com/prasadmarineni/kids/blob/main/data/img/birds.jpg?raw=true","subItems":[{"label":"Eagel","word":"eagel","imgUrls":["bird-eagel-1.jpg?raw=true","bird-eagel-2.jpg?raw=true"]},{"label":"Parrot","word":"Parrot","imgUrls":["bird-parrot-1.jpg?raw=true","bird-parrot-2.jpg?raw=true","bird-parrot-3.jpg?raw=true","bird-parrot-4.jpg?raw=true"]},{"label":"Peacock","word":"peacock","imgUrls":["bird-peacock-1.jpg?raw=true","bird-peacock-2.jpg?raw=true"]},{"label":"Sparrow","word":"Sparrow","imgUrls":["bird-sparrow-1.jpg?raw=true","bird-sparrow-2.jpg?raw=true","bird-sparrow-3.jpg?raw=true"]},{"label":"Duck","word":"duck","imgUrls":["bird-duck-1.jpg?raw=true","bird-duck-2.jpg?raw=true","bird-duck-3.jpg?raw=true"]}]},{"label":"Fruits","word":"Fruits","imgUrl":"https://github.com/prasadmarineni/kids/blob/main/data/img/fruits.jpg?raw=true","subItems":[{"label":"Apple","word":"apple","imgUrls":["fruit-apple-1.jpg?raw=true","fruit-apple-2.jpg?raw=true"]},{"label":"Apricot","word":"apricot","imgUrls":["fruit-apricot-1.jpg?raw=true","fruit-apricot-2.jpg?raw=true"]},{"label":"Avocados","word":"avocados","imgUrls":["fruit-avocados-1.jpg?raw=true","fruit-avocados-2.jpg?raw=true"]},{"label":"Blackberry","word":"blackberry","imgUrls":["fruit-blackberry-1.jpg?raw=true","fruit-blackberry-2.jpg?raw=true"]},{"label":"Blueberry","word":"blueberry","imgUrls":["fruit-blueberry-1.jpg?raw=true","fruit-blueberry-2.jpg?raw=true"]},{"label":"Cherry","word":"cherry","imgUrls":["fruit-cherry-1.jpg?raw=true","fruit-cherry-2.jpg?raw=true"]},{"label":"Coconut","word":"coconut","imgUrls":["fruit-coconut-1.jpg?raw=true","fruit-coconut-2.jpg?raw=true"]},{"label":"Custard Apple","word":"custardapple","imgUrls":["fruit-custardapple-1.jpg?raw=true","fruit-custardapple-2.jpg?raw=true"]},{"label":"Dragon Fruit","word":"dragon fruit","imgUrls":["fruit-dragon-fruit-1.jpg?raw=true","fruit-dragon-fruit-2.jpg?raw=true"]},{"label":"Fig","word":"fig","imgUrls":["fruit-fig-1.jpg?raw=true","fruit-fig-2.jpg?raw=true"]},{"label":"Grapefruit","word":"grapefruit","imgUrls":["fruit-grapefruit-1.jpg?raw=true","fruit-grapefruit-2.jpg?raw=true"]},{"label":"Grapes","word":"grapes","imgUrls":["fruit-grapes-1.jpg?raw=true","fruit-grapes-2.jpg?raw=true"]},{"label":"Guava","word":"guava","imgUrls":["fruit-guava-1.jpg?raw=true","fruit-guava-2.jpg?raw=true"]},{"label":"Jackfruit","word":"jackfruit","imgUrls":["fruit-jackfruit-1.jpg?raw=true","fruit-jackfruit-2.jpg?raw=true"]},{"label":"Kiwi","word":"kiwi","imgUrls":["fruit-kiwi-1.jpg?raw=true","fruit-kiwi-2.jpg?raw=true"]},{"label":"Lemon","word":"lemon","imgUrls":["fruit-lemon-1.jpg?raw=true","fruit-lemon-2.jpg?raw=true"]},{"label":"Mango","word":"mango","imgUrls":["fruit-mango-1.jpg?raw=true","fruit-mango-2.jpg?raw=true"]},{"label":"Orange","word":"orange","imgUrls":["fruit-orange-1.jpg?raw=true","fruit-orange-2.jpg?raw=true"]},{"label":"Papaya","word":"papaya","imgUrls":["fruit-papaya-1.jpg?raw=true","fruit-papaya-2.jpg?raw=true"]},{"label":"Peach","word":"peach","imgUrls":["fruit-peach-1.jpg?raw=true","fruit-peach-2.jpg?raw=true"]},{"label":"Pear","word":"pear","imgUrls":["fruit-pear-1.jpg?raw=true","fruit-pear-2.jpg?raw=true"]},{"label":"Pineapple","word":"pineapple","imgUrls":["fruit-pineapple-1.jpg?raw=true","fruit-pineapple-2.jpg?raw=true"]},{"label":"Plum","word":"plum","imgUrls":["fruit-plum-1.jpg?raw=true","fruit-plum-2.jpg?raw=true"]},{"label":"Pomegranate","word":"pomegranate","imgUrls":["fruit-pomegranate-1.jpg?raw=true","fruit-pomegranate-2.jpg?raw=true"]},{"label":"Quince","word":"quince","imgUrls":["fruit-quince-1.jpg?raw=true","fruit-quince-2.jpg?raw=true"]},{"label":"Strawberries","word":"strawberries","imgUrls":["fruit-strawberries-1.jpg?raw=true","fruit-strawberries-2.jpg?raw=true"]},{"label":"Tamarind","word":"tamarind","imgUrls":["fruit-tamarind-1.jpg?raw=true","fruit-tamarind-2.jpg?raw=true"]},{"label":"Watermelon","word":"watermelon","imgUrls":["fruit-watermelon-1.jpg?raw=true","fruit-watermelon-2.jpg?raw=true"]}]}]}
+{
+    "version": "1.0",
+    "imgBaseUrl": "https://github.com/prasadmarineni/kids/blob/main/data/img/",
+    "items": [
+        {
+            "label": "Animals",
+            "word": "Animals",
+            "imgUrl": "https://github.com/prasadmarineni/kids/blob/main/data/img/animals.jpg?raw=true",
+            "subItems": [
+                {
+                    "label": "Bear",
+                    "word": "Bear",
+                    "imgUrls": [
+                        "animal-bear-1.jpg?raw=true",
+                        "animal-bear-2.jpg?raw=true",
+                        "animal-bear-3.jpg?raw=true",
+                        "animal-bear-4.jpg?raw=true"
+                    ]
+                },
+                {
+                    "label": "Buffalo",
+                    "word": "Buffalo",
+                    "imgUrls": [
+                        "animal-buffalo-1.jpg?raw=true",
+                        "animal-buffalo-2.jpg?raw=true"
+                    ]
+                },
+                {
+                    "label": "Camel",
+                    "word": "Camel",
+                    "imgUrls": [
+                        "animal-camel-1.jpg?raw=true",
+                        "animal-camel-2.jpg?raw=true",
+                        "animal-camel-3.jpg?raw=true",
+                        "animal-camel-4.jpg?raw=true"
+                    ]
+                },
+                {
+                    "label": "Cat",
+                    "word": "Cat",
+                    "imgUrls": [
+                        "animal-cat-1.jpg?raw=true",
+                        "animal-cat-2.jpg?raw=true",
+                        "animal-cat-3.jpg?raw=true",
+                        "animal-cat-4.jpg?raw=true",
+                        "animal-cat-5.jpg?raw=true",
+                        "animal-cat-6.jpg?raw=true"
+                    ]
+                },
+                {
+                    "label": "Crocodile",
+                    "word": "Crocodile",
+                    "imgUrls": [
+                        "animal-crocodile-1.jpg?raw=true",
+                        "animal-crocodile-2.jpg?raw=true"
+                    ]
+                },
+                {
+                    "label": "Deer",
+                    "word": "Deer",
+                    "imgUrls": [
+                        "animal-deer-1.jpg?raw=true",
+                        "animal-deer-2.jpg?raw=true",
+                        "animal-deer-3.jpg?raw=true",
+                        "animal-deer-4.jpg?raw=true",
+                        "animal-deer-5.jpg?raw=true",
+                        "animal-deer-6.jpg?raw=true"
+                    ]
+                },
+                {
+                    "label": "Elephant",
+                    "word": "elephant",
+                    "imgUrls": [
+                        "animal-elephant-1.jpg?raw=true",
+                        "animal-elephant-2.jpg?raw=true"
+                    ]
+                },
+                {
+                    "label": "Fox",
+                    "word": "fox",
+                    "imgUrls": [
+                        "animal-fox-1.jpg?raw=true",
+                        "animal-fox-2.jpg?raw=true"
+                    ]
+                },
+                {
+                    "label": "Gorilla",
+                    "word": "gorilla",
+                    "imgUrls": [
+                        "animal-gorilla-1.jpg?raw=true",
+                        "animal-gorilla-2.jpg?raw=true",
+                        "animal-gorilla-3.jpg?raw=true",
+                        "animal-gorilla-4.jpg?raw=true"
+                    ]
+                },
+                {
+                    "label": "Hippopotamus",
+                    "word": "hippopotamus",
+                    "imgUrls": [
+                        "animal-hippopotamus-1.jpg?raw=true",
+                        "animal-hippopotamus-2.jpg?raw=true"
+                    ]
+                },
+                {
+                    "label": "Horse",
+                    "word": "horse",
+                    "imgUrls": [
+                        "animal-horse-1.jpg?raw=true",
+                        "animal-horse-2.jpg?raw=true",
+                        "animal-horse-3.jpg?raw=true",
+                        "animal-horse-4.jpg?raw=true",
+                        "animal-horse-5.jpg?raw=true",
+                        "animal-horse-6.jpg?raw=true"
+                    ]
+                },
+                {
+                    "label": "Kangaroo",
+                    "word": "kangaroo",
+                    "imgUrls": [
+                        "animal-kangaroo-1.jpg?raw=true",
+                        "animal-kangaroo-2.jpg?raw=true",
+                        "animal-kangaroo-3.jpg?raw=true",
+                        "animal-kangaroo-4.jpg?raw=true"
+                    ]
+                },
+                {
+                    "label": "Lion",
+                    "word": "Lion",
+                    "imgUrls": [
+                        "animal-lion-1.jpg?raw=true",
+                        "animal-lion-2.jpg?raw=true",
+                        "animal-lion-3.jpg?raw=true",
+                        "animal-lion-4.jpg?raw=true"
+                    ]
+                },
+                {
+                    "label": "Monkey",
+                    "word": "monkey",
+                    "imgUrls": [
+                        "animal-monkey-1.jpg?raw=true",
+                        "animal-monkey-2.jpg?raw=true",
+                        "animal-monkey-3.jpg?raw=true",
+                        "animal-monkey-4.jpg?raw=true"
+                    ]
+                },
+                {
+                    "label": "Owl",
+                    "word": "owl",
+                    "imgUrls": [
+                        "animal-owl-1.jpg?raw=true",
+                        "animal-owl-2.jpg?raw=true"
+                    ]
+                },
+                {
+                    "label": "Panda",
+                    "word": "panda",
+                    "imgUrls": [
+                        "animal-panda-1.jpg?raw=true",
+                        "animal-panda-2.jpg?raw=true"
+                    ]
+                },
+                {
+                    "label": "Ryanosaurus",
+                    "word": "ryanosaurus",
+                    "imgUrls": [
+                        "animal-ryanosaurus-1.jpg?raw=true",
+                        "animal-ryanosaurus-2.jpg?raw=true",
+                        "animal-ryanosaurus-2.jpg?raw=true"
+                    ]
+                },
+                {
+                    "label": "Squirrel",
+                    "word": "Sparrow",
+                    "imgUrls": [
+                        "animal-squirrel-1.jpg?raw=true",
+                        "animal-squirrel-2.jpg?raw=true",
+                        "animal-squirrel-3.jpg?raw=true",
+                        "animal-squirrel-4.jpg?raw=true",
+                        "animal-squirrel-5.jpg?raw=true",
+                        "animal-squirrel-6.jpg?raw=true",
+                        "animal-squirrel-7.jpg?raw=true",
+                        "animal-squirrel-8.jpg?raw=true"
+                    ]
+                },
+                {
+                    "label": "Tiger",
+                    "word": "Tiger",
+                    "imgUrls": [
+                        "animal-tiger-1.jpg?raw=true",
+                        "animal-tiger-2.jpg?raw=true"
+                    ]
+                },
+                {
+                    "label": "Tortoise",
+                    "word": "tortoise",
+                    "imgUrls": [
+                        "animal-tortoise-1.jpg?raw=true",
+                        "animal-tortoise-2.jpg?raw=true"
+                    ]
+                },
+                {
+                    "label": "Wolf",
+                    "word": "wolf",
+                    "imgUrls": [
+                        "animal-wolf-1.jpg?raw=true",
+                        "animal-wolf-2.jpg?raw=true",
+                        "animal-wolf-3.jpg?raw=true"
+                    ]
+                },
+                {
+                    "label": "Zebra",
+                    "word": "zebra",
+                    "imgUrls": [
+                        "animal-zebra-1.jpg?raw=true",
+                        "animal-zebra-2.jpg?raw=true"
+                    ]
+                },
+                {
+                    "label": "Ziraf",
+                    "word": "Ziraf",
+                    "imgUrls": [
+                        "animal-ziraf-1.jpg?raw=true",
+                        "animal-ziraf-2.jpg?raw=true"
+                    ]
+                }
+            ]
+        },
+        {
+            "label": "Birds",
+            "word": "Birds",
+            "imgUrl": "https://github.com/prasadmarineni/kids/blob/main/data/img/birds.jpg?raw=true",
+            "subItems": [
+                {
+                    "label": "Eagel",
+                    "word": "eagel",
+                    "imgUrls": [
+                        "bird-eagel-1.jpg?raw=true",
+                        "bird-eagel-2.jpg?raw=true"
+                    ]
+                },
+                {
+                    "label": "Parrot",
+                    "word": "Parrot",
+                    "imgUrls": [
+                        "bird-parrot-1.jpg?raw=true",
+                        "bird-parrot-2.jpg?raw=true",
+                        "bird-parrot-3.jpg?raw=true",
+                        "bird-parrot-4.jpg?raw=true"
+                    ]
+                },
+                {
+                    "label": "Peacock",
+                    "word": "peacock",
+                    "imgUrls": [
+                        "bird-peacock-1.jpg?raw=true",
+                        "bird-peacock-2.jpg?raw=true"
+                    ]
+                },
+                {
+                    "label": "Sparrow",
+                    "word": "Sparrow",
+                    "imgUrls": [
+                        "bird-sparrow-1.jpg?raw=true",
+                        "bird-sparrow-2.jpg?raw=true",
+                        "bird-sparrow-3.jpg?raw=true"
+                    ]
+                },
+                {
+                    "label": "Duck",
+                    "word": "duck",
+                    "imgUrls": [
+                        "bird-duck-1.jpg?raw=true",
+                        "bird-duck-2.jpg?raw=true",
+                        "bird-duck-3.jpg?raw=true"
+                    ]
+                }
+            ]
+        },
+        {
+            "label": "Fruits",
+            "word": "Fruits",
+            "imgUrl": "https://github.com/prasadmarineni/kids/blob/main/data/img/fruits.jpg?raw=true",
+            "subItems": [
+                {
+                    "label": "Apple",
+                    "word": "Apple",
+                    "imgUrls": [
+                        "fruit-apple-1.jpg?raw=true",
+                        "fruit-apple-2.jpg?raw=true"
+                    ]
+                },
+                {
+                    "label": "Apricot",
+                    "word": "Apricot",
+                    "imgUrls": [
+                        "fruit-apricot-1.jpg?raw=true",
+                        "fruit-apricot-2.jpg?raw=true"
+                    ]
+                },
+                {
+                    "label": "Avocados",
+                    "word": "Avocados",
+                    "imgUrls": [
+                        "fruit-avocados-1.jpg?raw=true",
+                        "fruit-avocados-2.jpg?raw=true"
+                    ]
+                },
+                {
+                    "label": "Blackberry",
+                    "word": "Blackberry",
+                    "imgUrls": [
+                        "fruit-blackberry-1.jpg?raw=true",
+                        "fruit-blackberry-2.jpg?raw=true"
+                    ]
+                },
+                {
+                    "label": "Blueberry",
+                    "word": "Blueberry",
+                    "imgUrls": [
+                        "fruit-blueberry-1.jpg?raw=true",
+                        "fruit-blueberry-2.jpg?raw=true"
+                    ]
+                },
+                {
+                    "label": "Cherry",
+                    "word": "Cherry",
+                    "imgUrls": [
+                        "fruit-cherry-1.jpg?raw=true",
+                        "fruit-cherry-2.jpg?raw=true"
+                    ]
+                },
+                {
+                    "label": "Coconut",
+                    "word": "Coconut",
+                    "imgUrls": [
+                        "fruit-coconut-1.jpg?raw=true",
+                        "fruit-coconut-2.jpg?raw=true"
+                    ]
+                },
+                {
+                    "label": "Custard Apple",
+                    "word": "Custard Apple",
+                    "imgUrls": [
+                        "fruit-custardapple-1.jpg?raw=true",
+                        "fruit-custardapple-2.jpg?raw=true"
+                    ]
+                },
+                {
+                    "label": "Dragon Fruit",
+                    "word": "Dragon Fruit",
+                    "imgUrls": [
+                        "fruit-dragonfruit-1.jpg?raw=true",
+                        "fruit-dragonfruit-2.jpg?raw=true"
+                    ]
+                },
+                {
+                    "label": "Fig",
+                    "word": "Fig",
+                    "imgUrls": [
+                        "fruit-fig-1.jpg?raw=true",
+                        "fruit-fig-2.jpg?raw=true"
+                    ]
+                },
+                {
+                    "label": "Grapefruit",
+                    "word": "Grapefruit",
+                    "imgUrls": [
+                        "fruit-grapefruit-1.jpg?raw=true",
+                        "fruit-grapefruit-2.jpg?raw=true"
+                    ]
+                },
+                {
+                    "label": "Grapes",
+                    "word": "Grapes",
+                    "imgUrls": [
+                        "fruit-grapes-1.jpg?raw=true",
+                        "fruit-grapes-2.jpg?raw=true"
+                    ]
+                },
+                {
+                    "label": "Guava",
+                    "word": "Guava",
+                    "imgUrls": [
+                        "fruit-guava-1.jpg?raw=true",
+                        "fruit-guava-2.jpg?raw=true"
+                    ]
+                },
+                {
+                    "label": "Jackfruit",
+                    "word": "Jackfruit",
+                    "imgUrls": [
+                        "fruit-jackfruit-1.jpg?raw=true",
+                        "fruit-jackfruit-2.jpg?raw=true"
+                    ]
+                },
+                {
+                    "label": "Kiwi",
+                    "word": "Kiwi",
+                    "imgUrls": [
+                        "fruit-kiwi-1.jpg?raw=true",
+                        "fruit-kiwi-2.jpg?raw=true"
+                    ]
+                },
+                {
+                    "label": "Lemon",
+                    "word": "Lemon",
+                    "imgUrls": [
+                        "fruit-lemon-1.jpg?raw=true",
+                        "fruit-lemon-2.jpg?raw=true"
+                    ]
+                },
+                {
+                    "label": "Mango",
+                    "word": "Mango",
+                    "imgUrls": [
+                        "fruit-mango-1.jpg?raw=true",
+                        "fruit-mango-2.jpg?raw=true"
+                    ]
+                },
+                {
+                    "label": "Orange",
+                    "word": "Orange",
+                    "imgUrls": [
+                        "fruit-orange-1.jpg?raw=true",
+                        "fruit-orange-2.jpg?raw=true"
+                    ]
+                },
+                {
+                    "label": "Papaya",
+                    "word": "Papaya",
+                    "imgUrls": [
+                        "fruit-papaya-1.jpg?raw=true",
+                        "fruit-papaya-2.jpg?raw=true"
+                    ]
+                },
+                {
+                    "label": "Peach",
+                    "word": "Peach",
+                    "imgUrls": [
+                        "fruit-peach-1.jpg?raw=true",
+                        "fruit-peach-2.jpg?raw=true"
+                    ]
+                },
+                {
+                    "label": "Pear",
+                    "word": "Pear",
+                    "imgUrls": [
+                        "fruit-pear-1.jpg?raw=true",
+                        "fruit-pear-2.jpg?raw=true"
+                    ]
+                },
+                {
+                    "label": "Pineapple",
+                    "word": "Pineapple",
+                    "imgUrls": [
+                        "fruit-pineapple-1.jpg?raw=true",
+                        "fruit-pineapple-2.jpg?raw=true"
+                    ]
+                },
+                {
+                    "label": "Plum",
+                    "word": "Plum",
+                    "imgUrls": [
+                        "fruit-plum-1.jpg?raw=true",
+                        "fruit-plum-2.jpg?raw=true"
+                    ]
+                },
+                {
+                    "label": "Pomegranate",
+                    "word": "Pomegranate",
+                    "imgUrls": [
+                        "fruit-pomegranate-1.jpg?raw=true",
+                        "fruit-pomegranate-2.jpg?raw=true"
+                    ]
+                },
+                {
+                    "label": "Quince",
+                    "word": "Quince",
+                    "imgUrls": [
+                        "fruit-quince-1.jpg?raw=true",
+                        "fruit-quince-2.jpg?raw=true"
+                    ]
+                },
+                {
+                    "label": "Strawberries",
+                    "word": "Strawberries",
+                    "imgUrls": [
+                        "fruit-strawberries-1.jpg?raw=true",
+                        "fruit-strawberries-2.jpg?raw=true"
+                    ]
+                },
+                {
+                    "label": "Tamarind",
+                    "word": "Tamarind",
+                    "imgUrls": [
+                        "fruit-tamarind-1.jpg?raw=true",
+                        "fruit-tamarind-2.jpg?raw=true"
+                    ]
+                },
+                {
+                    "label": "Watermelon",
+                    "word": "Watermelon",
+                    "imgUrls": [
+                        "fruit-watermelon-1.jpg?raw=true",
+                        "fruit-watermelon-2.jpg?raw=true"
+                    ]
+                }
+            ]
+        }
+    ]
+}
