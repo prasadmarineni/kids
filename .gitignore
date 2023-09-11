@@ -2,3 +2,6 @@
 data/~$List.xlsx
 data/img/backup/
 data/img/compress/
+
+Get-ChildItem 'C:\Workspace\git\kids\data\img\new' | rename-item -newname { [string]($_.name).substring($_.name.length - 4) }
+
