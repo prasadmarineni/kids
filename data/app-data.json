@@ -664,7 +664,7 @@
                     "label": "Asparagus",
                     "word": "Asparagus",
                     "imgUrls": [
-                        "vegetables-asparagus-1.jpg?raw=true",
+                        "vegetables-asparagus-2.jpg?raw=true",
                         "vegetables-asparagus-2.jpg?raw=true"
                     ]
                 },
@@ -688,7 +688,7 @@
                     "label": "Bottle Gourd",
                     "word": "Bottle Gourd",
                     "imgUrls": [
-                        "vegetables-bottle-gourd-1.jpg?raw=true",
+                        "vegetables-bottle-gourd-2.jpg?raw=true",
                         "vegetables-bottle-gourd-2.jpg?raw=true"
                     ]
                 },
@@ -698,14 +698,6 @@
                     "imgUrls": [
                         "vegetables-broccoli-1.jpg?raw=true",
                         "vegetables-broccoli-2.jpg?raw=true"
-                    ]
-                },
-                {
-                    "label": "Drumstick",
-                    "word": "Drumstick",
-                    "imgUrls": [
-                        "vegetables-drumstick-1.jpg?raw=true",
-                        "vegetables-drumstick-2.jpg?raw=true"
                     ]
                 },
                 {
@@ -728,8 +720,8 @@
                     "label": "Cauliflower ",
                     "word": "Cauliflower ",
                     "imgUrls": [
-                        "vegetables-cauliflower -1.jpg?raw=true",
-                        "vegetables-cauliflower -2.jpg?raw=true"
+                        "vegetables-cauliflower-1.jpg?raw=true",
+                        "vegetables-cauliflower-2.jpg?raw=true"
                     ]
                 },
                 {
@@ -744,7 +736,7 @@
                     "label": "Chilli",
                     "word": "Chilli",
                     "imgUrls": [
-                        "vegetables-chilli-1.jpg?raw=true",
+                        "vegetables-chilli-2.jpg?raw=true",
                         "vegetables-chilli-2.jpg?raw=true"
                     ]
                 },
@@ -810,14 +802,6 @@
                     "imgUrls": [
                         "vegetables-lady-finger-1.jpg?raw=true",
                         "vegetables-lady-finger-2.jpg?raw=true"
-                    ]
-                },
-                {
-                    "label": "Lattuce",
-                    "word": "Lattuce",
-                    "imgUrls": [
-                        "vegetables-lattuce-1.jpg?raw=true",
-                        "vegetables-lattuce-2.jpg?raw=true"
                     ]
                 },
                 {
