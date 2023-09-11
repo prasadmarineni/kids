@@ -231,47 +231,187 @@
             "imgUrl": "https://github.com/prasadmarineni/kids/blob/main/data/img/birds.jpg?raw=true",
             "subItems": [
                 {
-                    "label": "Eagle",
-                    "word": "eagle",
+                    "label": "Cock",
+                    "word": "Cock",
                     "imgUrls": [
-                        "bird-eagle-1.jpg?raw=true",
-                        "bird-eagle-2.jpg?raw=true"
+                        "fruit-cock-1.jpg?raw=true",
+                        "fruit-cock-2.jpg?raw=true"
                     ]
                 },
                 {
-                    "label": "Parrot",
-                    "word": "Parrot",
+                    "label": "Crane",
+                    "word": "Crane",
                     "imgUrls": [
-                        "bird-parrot-1.jpg?raw=true",
-                        "bird-parrot-2.jpg?raw=true",
-                        "bird-parrot-3.jpg?raw=true",
-                        "bird-parrot-4.jpg?raw=true"
+                        "fruit-crane-1.jpg?raw=true",
+                        "fruit-crane-2.jpg?raw=true"
                     ]
                 },
                 {
-                    "label": "Peacock",
-                    "word": "peacock",
+                    "label": "Crow",
+                    "word": "Crow",
                     "imgUrls": [
-                        "bird-peacock-1.jpg?raw=true",
-                        "bird-peacock-2.jpg?raw=true"
+                        "fruit-crow-1.jpg?raw=true",
+                        "fruit-crow-2.jpg?raw=true"
                     ]
                 },
                 {
-                    "label": "Sparrow",
-                    "word": "Sparrow",
+                    "label": "Dove",
+                    "word": "Dove",
                     "imgUrls": [
-                        "bird-sparrow-1.jpg?raw=true",
-                        "bird-sparrow-2.jpg?raw=true",
-                        "bird-sparrow-3.jpg?raw=true"
+                        "fruit-dove-1.jpg?raw=true",
+                        "fruit-dove-2.jpg?raw=true"
                     ]
                 },
                 {
-                    "label": "Duck",
-                    "word": "duck",
+                    "label": "Flamigo",
+                    "word": "Flamigo",
                     "imgUrls": [
-                        "bird-duck-1.jpg?raw=true",
-                        "bird-duck-2.jpg?raw=true",
-                        "bird-duck-3.jpg?raw=true"
+                        "fruit-flamigo-1.jpg?raw=true",
+                        "fruit-flamigo-2.jpg?raw=true"
+                    ]
+                },
+                {
+                    "label": "Flamingo",
+                    "word": "Flamingo",
+                    "imgUrls": [
+                        "fruit-flamingo-1.jpg?raw=true",
+                        "fruit-flamingo-2.jpg?raw=true"
+                    ]
+                },
+                {
+                    "label": "Hen",
+                    "word": "Hen",
+                    "imgUrls": [
+                        "fruit-hen-1.jpg?raw=true",
+                        "fruit-hen-2.jpg?raw=true"
+                    ]
+                },
+                {
+                    "label": "Hornbill",
+                    "word": "Hornbill",
+                    "imgUrls": [
+                        "fruit-hornbill-1.jpg?raw=true",
+                        "fruit-hornbill-2.jpg?raw=true"
+                    ]
+                },
+                {
+                    "label": "Humming Bird",
+                    "word": "Humming Bird",
+                    "imgUrls": [
+                        "fruit-humming-bird-1.jpg?raw=true",
+                        "fruit-humming-bird-2.jpg?raw=true"
+                    ]
+                },
+                {
+                    "label": "Kingfisher",
+                    "word": "Kingfisher",
+                    "imgUrls": [
+                        "fruit-kingfisher-1.jpg?raw=true",
+                        "fruit-kingfisher-2.jpg?raw=true"
+                    ]
+                },
+                {
+                    "label": "Kite",
+                    "word": "Kite",
+                    "imgUrls": [
+                        "fruit-kite-1.jpg?raw=true",
+                        "fruit-kite-2.jpg?raw=true"
+                    ]
+                },
+                {
+                    "label": "Kiwi",
+                    "word": "Kiwi",
+                    "imgUrls": [
+                        "fruit-kiwi-1.jpg?raw=true",
+                        "fruit-kiwi-2.jpg?raw=true"
+                    ]
+                },
+                {
+                    "label": "Nightingale",
+                    "word": "Nightingale",
+                    "imgUrls": [
+                        "fruit-nightingale-1.jpg?raw=true",
+                        "fruit-nightingale-2.jpg?raw=true"
+                    ]
+                },
+                {
+                    "label": "Ostrich",
+                    "word": "Ostrich",
+                    "imgUrls": [
+                        "fruit-ostrich-1.jpg?raw=true",
+                        "fruit-ostrich-2.jpg?raw=true"
+                    ]
+                },
+                {
+                    "label": "Pelican",
+                    "word": "Pelican",
+                    "imgUrls": [
+                        "fruit-pelican-1.jpg?raw=true",
+                        "fruit-pelican-2.jpg?raw=true"
+                    ]
+                },
+                {
+                    "label": "Penguin",
+                    "word": "Penguin",
+                    "imgUrls": [
+                        "fruit-penguin-1.jpg?raw=true",
+                        "fruit-penguin-2.jpg?raw=true"
+                    ]
+                },
+                {
+                    "label": "Pigeon",
+                    "word": "Pigeon",
+                    "imgUrls": [
+                        "fruit-pigeon-1.jpg?raw=true",
+                        "fruit-pigeon-2.jpg?raw=true"
+                    ]
+                },
+                {
+                    "label": "Robin",
+                    "word": "Robin",
+                    "imgUrls": [
+                        "fruit-robin-1.jpg?raw=true",
+                        "fruit-robin-2.jpg?raw=true"
+                    ]
+                },
+                {
+                    "label": "Seagull",
+                    "word": "Seagull",
+                    "imgUrls": [
+                        "fruit-seagull-1.jpg?raw=true",
+                        "fruit-seagull-2.jpg?raw=true"
+                    ]
+                },
+                {
+                    "label": "Swan",
+                    "word": "Swan",
+                    "imgUrls": [
+                        "fruit-swan-1.jpg?raw=true",
+                        "fruit-swan-2.jpg?raw=true"
+                    ]
+                },
+                {
+                    "label": "Turkey",
+                    "word": "Turkey",
+                    "imgUrls": [
+                        "fruit-turkey-1.jpg?raw=true",
+                        "fruit-turkey-2.jpg?raw=true"
+                    ]
+                },
+                {
+                    "label": "Vulture",
+                    "word": "Vulture",
+                    "imgUrls": [
+                        "fruit-vulture-1.jpg?raw=true",
+                        "fruit-vulture-2.jpg?raw=true"
+                    ]
+                },
+                {
+                    "label": "Woodpecker",
+                    "word": "Woodpecker",
+                    "imgUrls": [
+                        "fruit-woodpecker-1.jpg?raw=true",
+                        "fruit-woodpecker-2.jpg?raw=true"
                     ]
                 }
             ]
@@ -503,6 +643,293 @@
                     "imgUrls": [
                         "fruit-watermelon-1.jpg?raw=true",
                         "fruit-watermelon-2.jpg?raw=true"
+                    ]
+                }
+            ]
+        },
+        {
+            "label": "Animals",
+            "word": "Animals",
+            "imgUrl": "https://github.com/prasadmarineni/kids/blob/main/data/img/animals.jpg?raw=true",
+            "subItems": [
+                {
+                    "label": "Artichoke",
+                    "word": "Artichoke",
+                    "imgUrls": [
+                        "fruit-artichoke-1.jpg?raw=true",
+                        "fruit-artichoke-2.jpg?raw=true"
+                    ]
+                },
+                {
+                    "label": "Asparagus",
+                    "word": "Asparagus",
+                    "imgUrls": [
+                        "fruit-asparagus-1.jpg?raw=true",
+                        "fruit-asparagus-2.jpg?raw=true"
+                    ]
+                },
+                {
+                    "label": "Beetroot",
+                    "word": "Beetroot",
+                    "imgUrls": [
+                        "fruit-beetroot-1.jpg?raw=true",
+                        "fruit-beetroot-2.jpg?raw=true"
+                    ]
+                },
+                {
+                    "label": "Bitter Gourd",
+                    "word": "Bitter Gourd",
+                    "imgUrls": [
+                        "fruit-bitter-gourd-1.jpg?raw=true",
+                        "fruit-bitter-gourd-2.jpg?raw=true"
+                    ]
+                },
+                {
+                    "label": "Bottle Gourd",
+                    "word": "Bottle Gourd",
+                    "imgUrls": [
+                        "fruit-bottle-gourd-1.jpg?raw=true",
+                        "fruit-bottle-gourd-2.jpg?raw=true"
+                    ]
+                },
+                {
+                    "label": "Broccoli",
+                    "word": "Broccoli",
+                    "imgUrls": [
+                        "fruit-broccoli-1.jpg?raw=true",
+                        "fruit-broccoli-2.jpg?raw=true"
+                    ]
+                },
+                {
+                    "label": "Brumstick",
+                    "word": "Brumstick",
+                    "imgUrls": [
+                        "fruit-brumstick-1.jpg?raw=true",
+                        "fruit-brumstick-2.jpg?raw=true"
+                    ]
+                },
+                {
+                    "label": "Cabbage",
+                    "word": "Cabbage",
+                    "imgUrls": [
+                        "fruit-cabbage-1.jpg?raw=true",
+                        "fruit-cabbage-2.jpg?raw=true"
+                    ]
+                },
+                {
+                    "label": "Carrot",
+                    "word": "Carrot",
+                    "imgUrls": [
+                        "fruit-carrot-1.jpg?raw=true",
+                        "fruit-carrot-2.jpg?raw=true"
+                    ]
+                },
+                {
+                    "label": "Cauliflower ",
+                    "word": "Cauliflower ",
+                    "imgUrls": [
+                        "fruit-cauliflower -1.jpg?raw=true",
+                        "fruit-cauliflower -2.jpg?raw=true"
+                    ]
+                },
+                {
+                    "label": "Celery",
+                    "word": "Celery",
+                    "imgUrls": [
+                        "fruit-celery-1.jpg?raw=true",
+                        "fruit-celery-2.jpg?raw=true"
+                    ]
+                },
+                {
+                    "label": "Chilli",
+                    "word": "Chilli",
+                    "imgUrls": [
+                        "fruit-chilli-1.jpg?raw=true",
+                        "fruit-chilli-2.jpg?raw=true"
+                    ]
+                },
+                {
+                    "label": "Coriander",
+                    "word": "Coriander",
+                    "imgUrls": [
+                        "fruit-coriander-1.jpg?raw=true",
+                        "fruit-coriander-2.jpg?raw=true"
+                    ]
+                },
+                {
+                    "label": "Corn",
+                    "word": "Corn",
+                    "imgUrls": [
+                        "fruit-corn-1.jpg?raw=true",
+                        "fruit-corn-2.jpg?raw=true"
+                    ]
+                },
+                {
+                    "label": "Cucumber",
+                    "word": "Cucumber",
+                    "imgUrls": [
+                        "fruit-cucumber-1.jpg?raw=true",
+                        "fruit-cucumber-2.jpg?raw=true"
+                    ]
+                },
+                {
+                    "label": "Drumstick",
+                    "word": "Drumstick",
+                    "imgUrls": [
+                        "fruit-drumstick-1.jpg?raw=true",
+                        "fruit-drumstick-2.jpg?raw=true"
+                    ]
+                },
+                {
+                    "label": "Eggplant",
+                    "word": "Eggplant",
+                    "imgUrls": [
+                        "fruit-eggplant-1.jpg?raw=true",
+                        "fruit-eggplant-2.jpg?raw=true"
+                    ]
+                },
+                {
+                    "label": "Garlic",
+                    "word": "Garlic",
+                    "imgUrls": [
+                        "fruit-garlic-1.jpg?raw=true",
+                        "fruit-garlic-2.jpg?raw=true"
+                    ]
+                },
+                {
+                    "label": "Ginger",
+                    "word": "Ginger",
+                    "imgUrls": [
+                        "fruit-ginger-1.jpg?raw=true",
+                        "fruit-ginger-2.jpg?raw=true"
+                    ]
+                },
+                {
+                    "label": "Lady Finger",
+                    "word": "Lady Finger",
+                    "imgUrls": [
+                        "fruit-lady-finger-1.jpg?raw=true",
+                        "fruit-lady-finger-2.jpg?raw=true"
+                    ]
+                },
+                {
+                    "label": "Lattuce",
+                    "word": "Lattuce",
+                    "imgUrls": [
+                        "fruit-lattuce-1.jpg?raw=true",
+                        "fruit-lattuce-2.jpg?raw=true"
+                    ]
+                },
+                {
+                    "label": "Leek",
+                    "word": "Leek",
+                    "imgUrls": [
+                        "fruit-leek-1.jpg?raw=true",
+                        "fruit-leek-2.jpg?raw=true"
+                    ]
+                },
+                {
+                    "label": "Lemon",
+                    "word": "Lemon",
+                    "imgUrls": [
+                        "fruit-lemon-1.jpg?raw=true",
+                        "fruit-lemon-2.jpg?raw=true"
+                    ]
+                },
+                {
+                    "label": "Lettuce",
+                    "word": "Lettuce",
+                    "imgUrls": [
+                        "fruit-lettuce-1.jpg?raw=true",
+                        "fruit-lettuce-2.jpg?raw=true"
+                    ]
+                },
+                {
+                    "label": "Mint",
+                    "word": "Mint",
+                    "imgUrls": [
+                        "fruit-mint-1.jpg?raw=true",
+                        "fruit-mint-2.jpg?raw=true"
+                    ]
+                },
+                {
+                    "label": "Mushroom",
+                    "word": "Mushroom",
+                    "imgUrls": [
+                        "fruit-mushroom-1.jpg?raw=true",
+                        "fruit-mushroom-2.jpg?raw=true"
+                    ]
+                },
+                {
+                    "label": "Onion",
+                    "word": "Onion",
+                    "imgUrls": [
+                        "fruit-onion-1.jpg?raw=true",
+                        "fruit-onion-2.jpg?raw=true"
+                    ]
+                },
+                {
+                    "label": "Peas",
+                    "word": "Peas",
+                    "imgUrls": [
+                        "fruit-peas-1.jpg?raw=true",
+                        "fruit-peas-2.jpg?raw=true"
+                    ]
+                },
+                {
+                    "label": "Pointed Gourd ",
+                    "word": "Pointed Gourd ",
+                    "imgUrls": [
+                        "fruit-pointed-gourd -1.jpg?raw=true",
+                        "fruit-pointed-gourd -2.jpg?raw=true"
+                    ]
+                },
+                {
+                    "label": "Pointed Gourd",
+                    "word": "Pointed Gourd",
+                    "imgUrls": [
+                        "fruit-pointed-gourd-1.jpg?raw=true",
+                        "fruit-pointed-gourd-2.jpg?raw=true"
+                    ]
+                },
+                {
+                    "label": "Potato",
+                    "word": "Potato",
+                    "imgUrls": [
+                        "fruit-potato-1.jpg?raw=true",
+                        "fruit-potato-2.jpg?raw=true"
+                    ]
+                },
+                {
+                    "label": "Pumpkin",
+                    "word": "Pumpkin",
+                    "imgUrls": [
+                        "fruit-pumpkin-1.jpg?raw=true",
+                        "fruit-pumpkin-2.jpg?raw=true"
+                    ]
+                },
+                {
+                    "label": "Red Chilli",
+                    "word": "Red Chilli",
+                    "imgUrls": [
+                        "fruit-red-chilli-1.jpg?raw=true",
+                        "fruit-red-chilli-2.jpg?raw=true"
+                    ]
+                },
+                {
+                    "label": "Tomato",
+                    "word": "Tomato",
+                    "imgUrls": [
+                        "fruit-tomato-1.jpg?raw=true",
+                        "fruit-tomato-2.jpg?raw=true"
+                    ]
+                },
+                {
+                    "label": "Turnip",
+                    "word": "Turnip",
+                    "imgUrls": [
+                        "fruit-turnip-1.jpg?raw=true",
+                        "fruit-turnip-2.jpg?raw=true"
                     ]
                 }
             ]
