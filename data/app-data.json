@@ -861,14 +861,6 @@
                     ]
                 },
                 {
-                    "label": "Pointed Gourd ",
-                    "word": "Pointed Gourd ",
-                    "imgUrls": [
-                        "vegetables-pointed-gourd -1.jpg?raw=true",
-                        "vegetables-pointed-gourd -2.jpg?raw=true"
-                    ]
-                },
-                {
                     "label": "Pointed Gourd",
                     "word": "Pointed Gourd",
                     "imgUrls": [
@@ -897,7 +889,7 @@
                     "word": "Red Chilli",
                     "imgUrls": [
                         "vegetables-red-chilli-1.jpg?raw=true",
-                        "vegetables-red-chilli-2.jpg?raw=true"
+                        "vegetables-red-chilli-1.jpg?raw=true"
                     ]
                 },
                 {
